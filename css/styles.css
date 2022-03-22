@@ -122,7 +122,7 @@ hr {
   background-color: #FFFFFF;
   position: relative;
   top: 20px;
-  height: 2250px;
+  height: 2200px;
   font-size: 1.0625rem;
   line-height: 30px;
 }
@@ -161,7 +161,7 @@ hr {
 }
 
 .skill-row {
-  width: 50%;
+  width: 40%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 40px;
@@ -174,8 +174,6 @@ hr {
 }
 
 .filmmaking_content {
-  /* width: 40rem; */
-  margin-top: 1rem;
 }
 
 .musician {
@@ -185,8 +183,6 @@ hr {
 }
 
 .music_content {
-  /* width: 40rem; */
-  margin-top: 1rem;
 }
 
 .standuper {
@@ -200,8 +196,6 @@ hr {
 }
 
 .standup_content {
-  /* width: 40rem; */
-  margin-top: 1rem;
 }
 
 .hr_contacts {
@@ -325,7 +319,7 @@ section {
 }
 
 .fa-envelope {
-  margin: 10px auto 10px auto;
+  margin: 0 auto 10px auto;
   text-decoration: none;
   font-family: "WindSong", cursive;
   border: solid
