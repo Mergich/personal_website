@@ -122,7 +122,6 @@ hr {
   background-color: #FFFFFF;
   position: relative;
   top: 20px;
-  max-height: 2200px;
   height: 2200px;
   font-size: 1.0625rem;
   line-height: 30px;
@@ -166,7 +165,6 @@ hr {
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 40px;
-  min-width: 40%;
 }
 
 .filmmaker {
